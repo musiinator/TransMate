@@ -1,0 +1,8 @@
+rootProject.name = "lab3-javafx"
+include 'TransportClientFX'
+include 'TransportModel'
+include 'TransportPersistance'
+include 'TransportService'
+include 'TransportServer'
+include 'TransportNetworking'
+
